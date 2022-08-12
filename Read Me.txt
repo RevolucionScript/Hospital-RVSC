@@ -1,0 +1,29 @@
+🇪🇸 Esta forma de Ordenar el hospital fue desarrollada por equipo de programacion RVSC/Revolucion Script
+
+esx_ambulancejob: Este cuenta con SQL la cual debe ser "Esencial" para el script
+
+lsmd: Autos de EMS
+
+np-viceroy: Map de Hospital "Creditos NoPixel Map"
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+🇺🇸 This form of ordering the hospital was developed by the RVSC/Revolucion Script programming team
+
+esx_ambulancejob: This has SQL which should be "Essential" for the script
+
+lsmd: EMS cars
+
+np-viceroy: Hospital Map "Credits NoPixel Map"
+
+ ___________      ____              ____
+|  _____   \      \   \            /   /
+| |     |   |      \   \          /   /
+| |_____|   /       \   \        /   /
+|    _     /         \   \      /   /
+|   | \   \           \   \    /   /
+|   |  \   \           \   \  /   /
+|   |   \   \           \   \/   /
+|___|    \___\           \______/
